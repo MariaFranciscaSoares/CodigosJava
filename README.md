@@ -1,5 +1,5 @@
 # CodigosJava
-Este repositório contém códigos sobre exercícios de logica na linguagem Java com um pouco de POO.
-- Contendo metodos de repetição( while, doWhile, for, SwitchCase) 
-- Contendo métodos condicionais (if, if else, else )
-- Contendo criação de funções. 
+This code contains code about logic exercises in the Java language with a bit of POO.
+- Containing repeat methods *while, doWhile, for, SwitchCase*.
+- Containing conditional methods *if, if else, else*.
+- Containing function creation. 
